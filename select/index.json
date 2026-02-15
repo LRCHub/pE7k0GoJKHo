@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "メルト (CPK! Remix)",
+  "base_artist": "ryo (supercell)、初音ミク",
+  "createdAt": "2026-02-15T15:00:07.337012Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メルト",
+      "artist": "supercell feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/01_メルト_supercell_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メルト",
+      "artist": "supercell feat.初音ミク",
+      "has_synced": true,
+      "path": "select/02_メルト_supercell_feat.初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メルト",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/03_メルト_supercell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メルト",
+      "artist": "supercell; 初音ミク",
+      "has_synced": true,
+      "path": "select/04_メルト_supercell;_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メルト",
+      "artist": "supercel & 初音ミク",
+      "has_synced": false,
+      "path": "select/05_メルト_supercel_&_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メルト",
+      "artist": "supercell",
+      "has_synced": false,
+      "path": "select/06_メルト_supercell.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "メルト",
+      "artist": "supercell feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/07_メルト_supercell_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Melt [メルト]",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/08_Melt_[メルト]_supercell.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "メルト 10th ANNIVERSARY MIX",
+      "artist": "ryo (supercell) feat. yanaginagi",
+      "has_synced": true,
+      "path": "select/09_メルト_10th_ANNIVERSARY_MIX_ryo_(supercell)_feat._yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "メルト 10th Anniversary Mix",
+      "artist": "ryo (supercell);  やなぎなぎ",
+      "has_synced": true,
+      "path": "select/10_メルト_10th_Anniversary_Mix_ryo_(supercell);_やなぎなぎ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "メルト -MIKU EXPO 2014 in INDONESIA Live-",
+      "artist": "ryo (supercell)",
+      "has_synced": true,
+      "path": "select/11_メルト_-MIKU_EXPO_2014_in_INDONESIA_Live-_ryo_(supercell).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "メルト(カラオケver)",
+      "artist": "supercell",
+      "has_synced": false,
+      "path": "select/12_メルト(カラオケver)_supercell.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "メルト 10th ANNIVERSARY MIX",
+      "artist": "yanaginagi",
+      "has_synced": false,
+      "path": "select/13_メルト_10th_ANNIVERSARY_MIX_yanaginagi.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "メルト 10th ANNIVERSARY MIX",
+      "artist": "ryo",
+      "has_synced": true,
+      "path": "select/14_メルト_10th_ANNIVERSARY_MIX_ryo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "メルト 10th ANNIVERSARY MIX",
+      "artist": "ryo (supercell) × やなぎなぎ",
+      "has_synced": true,
+      "path": "select/15_メルト_10th_ANNIVERSARY_MIX_ryo_(supercell)_×_やなぎなぎ.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "メルト -MIKU EXPO 2014 in INDONESIA Live-",
+      "artist": "ryo",
+      "has_synced": true,
+      "path": "select/16_メルト_-MIKU_EXPO_2014_in_INDONESIA_Live-_ryo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メルト",
+      "artist": "ryo Feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_メルト_ryo_Feat._初音ミク.txt"
+    }
+  ]
+}
